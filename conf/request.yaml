@@ -1,0 +1,4 @@
+headers:
+  "X-Lemonban-Media-Type": "lemonban.v2"
+  "Content-Type": "application/json"
+basic_url: "http://api.lemonban.com/futureloan"

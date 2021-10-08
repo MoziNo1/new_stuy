@@ -1,0 +1,8 @@
+data:
+  name: "zzz"
+  age: 16
+  sex: "name"
+except:
+  name: "www"
+  age: 18
+  sex: "girl"
